@@ -1,6 +1,6 @@
 #nginx
-#centos:7
-#mysql:8.0
+centos:8
+mysql:8.4
 #支持私库
 #openmetadata
 #docker.getcollate.io/openmetadata/db:1.6.3
@@ -9,8 +9,8 @@
 #docker.getcollate.io/openmetadata/ingestion:1.6.3
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 #dify
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
 #langgenius/dify-sandbox:0.2.10
 #postgres:15-alpine
 #redis:6-alpine
