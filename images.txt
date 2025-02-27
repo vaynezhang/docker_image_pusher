@@ -1,6 +1,6 @@
 #nginx
-centos:8
-mysql:8.4
+#centos:8
+#mysql:8.4
 #支持私库
 #openmetadata
 #docker.getcollate.io/openmetadata/db:1.6.3
@@ -21,5 +21,11 @@ mysql:8.4
 #docker.elastic.co/kibana/kibana:8.14.3
 #appsmith/appsmith-ce:release
 #cloudtogouser/pageplug-ce:latest
+#K8s
+registry.k8s.io/kube-apiserver:v1.32.0
+registry.k8s.io/kube-controller-manager:v1.32.0
+registry.k8s.io/kube-proxy:v1.32.0
+registry.k8s.io/kube-scheduler:v1.32.0
+registry.k8s.io/conformance:v1.32.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
