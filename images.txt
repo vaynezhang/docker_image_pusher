@@ -8,6 +8,8 @@
 #docker.getcollate.io/openmetadata/server:1.6.3
 #docker.getcollate.io/openmetadata/ingestion:1.6.3
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+#open-webui
+ghcr.io/open-webui/open-webui:latest
 #dify
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
@@ -22,10 +24,10 @@
 #appsmith/appsmith-ce:release
 #cloudtogouser/pageplug-ce:latest
 #K8s
-registry.k8s.io/kube-apiserver:v1.32.0
-registry.k8s.io/kube-controller-manager:v1.32.0
-registry.k8s.io/kube-proxy:v1.32.0
-registry.k8s.io/kube-scheduler:v1.32.0
-registry.k8s.io/conformance:v1.32.0
+#registry.k8s.io/kube-apiserver:v1.32.0
+#registry.k8s.io/kube-controller-manager:v1.32.0
+#registry.k8s.io/kube-proxy:v1.32.0
+#registry.k8s.io/kube-scheduler:v1.32.0
+#registry.k8s.io/conformance:v1.32.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
