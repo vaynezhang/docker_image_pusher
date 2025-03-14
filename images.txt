@@ -14,12 +14,12 @@
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
 #langgenius/dify-sandbox:0.2.10
-#langgenius/dify-api:1.0.0
-#langgenius/dify-web:1.0.0
-#langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
+langgenius/dify-plugin-daemon:0.0.4-local
 #ragflow
-infiniflow/ragflow:v0.16.0
-infiniflow/ragflow:v0.17.0
+#infiniflow/ragflow:v0.16.0
+#infiniflow/ragflow:v0.17.0
 #infiniflow/ragflow:v0.16.0-slim
 #infiniflow/ragflow:v0.17.0-slim
 #infiniflow/infinity:v0.6.0-dev3
@@ -40,5 +40,6 @@ infiniflow/ragflow:v0.17.0
 #registry.k8s.io/kube-proxy:v1.32.0
 #registry.k8s.io/kube-scheduler:v1.32.0
 #registry.k8s.io/conformance:v1.32.0
+php:7.4-cli
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
