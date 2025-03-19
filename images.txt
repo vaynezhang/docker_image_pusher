@@ -1,7 +1,7 @@
 #nginx
 #centos:8
-python:3.10
-ollama:0.6.2
+#python:3.10
+#ollama:0.6.2
 #mysql:8.4
 #支持私库
 #openmetadata
@@ -10,6 +10,8 @@ ollama:0.6.2
 #docker.getcollate.io/openmetadata/server:1.6.3
 #docker.getcollate.io/openmetadata/ingestion:1.6.3
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+docker.elastic.co/kibana/kibana:8.15.0
 #open-webui
 #ghcr.io/open-webui/open-webui:latest
 #dify
