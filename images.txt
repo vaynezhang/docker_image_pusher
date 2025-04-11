@@ -15,7 +15,8 @@
 #open-webui
 #ghcr.io/open-webui/open-webui:latest
 #metabase/metabase:latest
-apache/doris:2.1.9
+apache/doris:2.1.9-fe-x86_64
+apache/doris:2.1.9-be-x86_64
 #alenx/walle-web:2.1
 #alenx/walle-python:2.1
 #dify
