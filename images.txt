@@ -13,10 +13,10 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 #docker.elastic.co/kibana/kibana:8.15.0
 #open-webui
-ghcr.io/open-webui/open-webui:latest
+#ghcr.io/open-webui/open-webui:latest
 #metabase/metabase:latest
-selectdb/doris.fe-ubuntu:latest
-selectdb/doris.be-ubuntu:latest
+selectdb/doris.fe-ubuntu:2.1.9
+selectdb/doris.be-ubuntu:2.1.9
 #dify
 #langgenius/dify-sandbox:0.2.11
 langgenius/dify-api:1.2.0
