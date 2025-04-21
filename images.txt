@@ -16,10 +16,12 @@
 #ghcr.io/open-webui/open-webui:latest
 #n8n
 #docker.n8n.io/n8nio/n8n:1.86.1
-matomo:latest
+#matomo:latest
 #metabase/metabase:latest
 #selectdb/doris.fe-ubuntu:2.1.9
 #selectdb/doris.be-ubuntu:2.1.9
+selectdb/doris.fe-ubuntu:3.0.4
+selectdb/doris.be-ubuntu:3.0.4
 #dify
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-api:1.2.0
