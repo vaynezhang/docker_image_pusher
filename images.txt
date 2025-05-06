@@ -1,5 +1,5 @@
 #nginx
-#centos:8
+centos:9
 #python:3.10
 #ollama:0.6.2
 #mysql:8.4
@@ -20,7 +20,7 @@
 #metabase/metabase:latest
 #selectdb/doris.fe-ubuntu:2.1.9
 #selectdb/doris.be-ubuntu:2.1.9
-ghcr.io/umami-software/umami:postgresql-latest
+#ghcr.io/umami-software/umami:postgresql-latest
 #dify
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-api:1.2.0
@@ -58,8 +58,8 @@ ghcr.io/umami-software/umami:postgresql-latest
 #valkey/valkey:8
 #postgres:15-alpine
 #redis:6-alpine
-#appsmith/appsmith-ce:release
-#cloudtogouser/pageplug-ce:latest
+appsmith/appsmith-ce:release
+cloudtogouser/pageplug-ce:latest
 #K8s
 #registry.k8s.io/kube-apiserver:v1.32.0
 #registry.k8s.io/kube-controller-manager:v1.32.0
