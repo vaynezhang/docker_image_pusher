@@ -58,8 +58,9 @@
 #valkey/valkey:8
 #postgres:15-alpine
 #redis:6-alpine
-appsmith/appsmith-ce:release
-cloudtogouser/pageplug-ce:latest
+#appsmith/appsmith-ce:release
+#cloudtogouser/pageplug-ce:latest
+index.docker.io/cloudtogouser/pageplug-ce:latest
 #K8s
 #registry.k8s.io/kube-apiserver:v1.32.0
 #registry.k8s.io/kube-controller-manager:v1.32.0
