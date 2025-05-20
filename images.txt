@@ -3,6 +3,7 @@
 #python:3.10
 #ollama:0.6.2
 #mysql:8.4
+mongo:6.0.23
 #支持私库
 #openmetadata
 #docker.getcollate.io/openmetadata/db:1.6.3
@@ -60,7 +61,7 @@
 #redis:6-alpine
 #appsmith/appsmith-ce:release
 #cloudtogouser/pageplug-ce:latest
-index.docker.io/cloudtogouser/pageplug-ce:latest
+#index.docker.io/cloudtogouser/pageplug-ce:latest
 #K8s
 #registry.k8s.io/kube-apiserver:v1.32.0
 #registry.k8s.io/kube-controller-manager:v1.32.0
