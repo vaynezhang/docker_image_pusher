@@ -3,7 +3,9 @@
 #python:3.10
 #ollama:0.6.2
 #mysql:8.4
-mongo:6.0.23
+#mongo:6.0.23
+nsqio/nsq:v1.2.1
+opencoze/opencoze:latest
 #支持私库
 #openmetadata
 #docker.getcollate.io/openmetadata/db:1.6.3
