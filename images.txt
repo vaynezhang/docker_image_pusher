@@ -6,6 +6,7 @@
 #mongo:6.0.23
 nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
+
 #支持私库
 #openmetadata
 #docker.getcollate.io/openmetadata/db:1.6.3
