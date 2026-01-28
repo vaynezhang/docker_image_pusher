@@ -62,6 +62,16 @@ opencoze/opencoze:latest
 #valkey/valkey:8
 #postgres:15-alpine
 #redis:6-alpine
+
+#ragflow-0.23.1
+infiniflow/ragflow:v0.23.1
+infiniflow/infinity:v0.6.15
+hub.icert.top/opensearchproject/opensearch:2.19.1
+oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
+infiniflow/sandbox-executor-manager:latest
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+infiniflow/text-embeddings-inference:cpu-1.8
+
 #appsmith/appsmith-ce:release
 #cloudtogouser/pageplug-ce:latest
 #index.docker.io/cloudtogouser/pageplug-ce:latest
